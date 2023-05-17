@@ -46,6 +46,7 @@ h3 {color: #EEEEEE;font-size: 40px;font-weight: bold;}
 
 
 button {
+    cursor: pointer;
     border-radius: 5px;
     width: 155px;
     height: 45px;
